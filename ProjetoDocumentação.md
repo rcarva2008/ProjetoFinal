@@ -1,13 +1,11 @@
 ![Imagem do Circuito](Tela_principal.png)
 
- Nessa tela quando o usuario aperta no butão cadastro ele será enviado pra tela de cadastro diretamente,
-quando ele clica em algum card do carro aparecera as informaçoes dele alem de um butão de compra e não compra, 
-quando apertam no butão compra o sistema vai gerar um PDF onde aparecera que o usuario comprou o carro
-mas squando apertam em não compra ele sair da tela.
+ Clique no butão cadastro pare se moiviodo altomaticamento para o cadastro de carro,
+Clique no card do carro para aparecer as informaçoes restantes do mesmo clique no compra ou não compra pra sair dessa tela, 
+ao clica no butão compra o sistema gerar um PDF anuciando a compra quando aperta no butão nã oompra voltara para tela principal.
 
 ![Imagem do Circuito](Tela_cadastro.png)
 
-Na tela cadastro, o cadastro so funcionara se o usuario prencer todas as informações que se pedem se não o cadastro dará erro 
-altomaticamente, no butão adiciona imagem o usuario será direcionado a uma pequena tela flutuante em que o usuario poder esta a
-pegar suas proprias imagens para termina de preencer as informações que se pedem, quando o cadastro for finalizado o sistema avisara
-que o cadastro foi realizado com sucesso, e os dados que o usuario colocou no cadastro estara aparecendo altomaticamente na tela principal.
+Prença os topicos pedidos na tela cadastro para finalizar o cadastro e seleciona se quer vender ou botá pra alugar o carro,
+clique no butão adiciona imagem para quer consigar adiciona uma imagem de sue gosto no cadastro,
+clique em cadastra para esta fnaliuzando o processo caso algum erro verifique os topicos de cadastro para ver se nao tem nenhum erro.
