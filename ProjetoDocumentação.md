@@ -1,8 +1,8 @@
 ![Imagem do Circuito](Tela_principal.png)
 
  Clique no butão cadastro pare se moiviodo altomaticamento para o cadastro de carro,
-Clique no card do carro para aparecer as informaçoes restantes do mesmo clique no compra ou não compra pra sair dessa tela, 
-ao clica no butão compra o sistema gerar um PDF anuciando a compra quando aperta no butão nã oompra voltara para tela principal,
+Clique no card do carro para aparecer as informaçoes restantes do mesmo clique no obter ou não obter pra sair dessa tela, 
+ao clica no butão obter o sistema gerar um PDF anuciando a compra quando aperta no butão não obter voltara para tela principal,
 clicque no butão carrino para verifica o quanto gastou dentro do App, clique em pesquisa para encontra o altomovel de sua escolha, 
 clique no icone de perfil para verificar as informações de perfil de usuario.
 
